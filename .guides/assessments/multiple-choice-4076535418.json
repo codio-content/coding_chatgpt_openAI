@@ -1,0 +1,58 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-4076535418",
+	"source": {
+		"name": "query",
+		"showName": false,
+		"instructions": "**True or False:**\nIncluding examples of input and output data in your query can help the AI generate more accurate and relevant code snippets.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "51948fa8-bcd3-987f-7aeb-150bb214d409",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "948b2e2c-35b7-b35f-a253-ab840f2177a2",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": " Including examples of input and output data or providing a code skeleton for the AI to work with can indeed help the AI generate more accurate and relevant code snippets.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"temp.py",
+				"test.py"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "temp.py"
+				},
+				{
+					"type": "file",
+					"panelNumber": 1,
+					"content": "test.py"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2373325572",
+	"source": {
+		"name": "Best practices and optimization",
+		"showName": true,
+		"instructions": "**True or False:**\nWhen requesting best practices and optimization, you should be vague in your queries to allow the AI to explore a wider range of solutions.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "bf82c774-6fde-257d-a15c-f42c2274160c",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "137374af-9ef3-c97c-7606-d532d6609220",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "Being specific in your queries can lead to more precise and helpful responses from the AI. Vague queries may lead to more generalized or less relevant responses.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"aware.py"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "aware.py"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

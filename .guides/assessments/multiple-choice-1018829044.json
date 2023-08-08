@@ -1,0 +1,62 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1018829044",
+	"source": {
+		"name": "debugging assistance with the ChatGPT API",
+		"showName": false,
+		"instructions": "**In requesting debugging assistance with the ChatGPT API, which of the following is not recommended?**\n\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "030279b4-3aaa-c441-17c1-cb6e96afca07",
+				"correct": false,
+				"answer": "Being specific"
+			},
+			{
+				"_id": "06cbb2fd-5b0d-f90c-c705-1ef1e079ec0a",
+				"correct": false,
+				"answer": "Providing context"
+			},
+			{
+				"_id": "adcdccc5-1eb2-c2f5-6d1e-8782f775cf5d",
+				"correct": true,
+				"answer": "Ignoring system messages"
+			},
+			{
+				"_id": "2aa6fa0c-8c70-d991-09e4-f48f0b518b1e",
+				"correct": false,
+				"answer": "Reviewing the generated message"
+			}
+		],
+		"guidance": "The use of system messages is a key technique in communicating with the ChatGPT API. It sets the context of the AI as a coding assistant with expertise in a certain area. Ignoring system messages might lead to less accurate or relevant responses from the AI.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"aware.py"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "aware.py"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3570035563",
+	"source": {
+		"name": "ChatGPT Coding",
+		"showName": false,
+		"instructions": "**Which of the following is NOT a capability of ChatGPT in coding?**",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "f617805f-79fb-afdf-3f71-2eeb2567e427",
+				"correct": false,
+				"answer": "Generating code snippets"
+			},
+			{
+				"_id": "1f193278-288f-04cf-5569-e13f22e1d5b7",
+				"correct": false,
+				"answer": "Providing explanations for code segments"
+			},
+			{
+				"_id": "df83b32d-c51f-3484-8e56-df2ba31d6b2f",
+				"correct": true,
+				"answer": " Understanding the latest language features, updates, specific libraries and frameworks"
+			},
+			{
+				"_id": "33e6a84a-5446-bcdd-2f64-e6d29e53894d",
+				"correct": false,
+				"answer": "Debugging assistance"
+			}
+		],
+		"guidance": "Understanding the latest language features, updates, specific libraries and frameworks",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

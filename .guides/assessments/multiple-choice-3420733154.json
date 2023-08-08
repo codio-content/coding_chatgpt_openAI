@@ -1,0 +1,52 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3420733154",
+	"source": {
+		"name": "code execution or modification",
+		"showName": false,
+		"instructions": "**True or False :**\nIf the explanation involves code execution or modification, there is no need to test the code in your development environment.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "187d8311-8ea2-3da5-1570-cd9f5e1a00c8",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "7d2e6aa2-0ced-7e34-cc9a-f4f65d46d99e",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "the explanation involves code execution or modification, you should test the code in your development environment to verify its behavior.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"aware.py"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "aware.py"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

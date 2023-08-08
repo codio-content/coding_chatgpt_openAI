@@ -1,0 +1,22 @@
+{
+	"id": "e6b89464-8e17-2efe-551f-05dbb4bd7473",
+	"title": "Code Snippet",
+	"files": [
+		{
+			"path": "temp.py",
+			"action": "open"
+		},
+		{
+			"path": "test.py",
+			"panel": 1,
+			"action": "open"
+		}
+	],
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "3-cell"
+}

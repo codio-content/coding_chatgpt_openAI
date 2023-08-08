@@ -1,0 +1,25 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Learning-Objectives-f0a9",
+		"Capabilities-5dba",
+		"Code-Snippet-e6b8",
+		"Context-Awareness-1484",
+		"Providing-Explanations-for-Code-25b0",
+		"Debugging-With-ChatGPT-c3fa",
+		"Best-Practices-b428",
+		"Coding-Exercise-6227"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": true,
+	"theme": "light",
+	"title": "Introduction to GPT-3",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}
